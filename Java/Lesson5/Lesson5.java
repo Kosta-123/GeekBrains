@@ -18,8 +18,12 @@ public class Lesson5 {
                arrEmp[4] = new Emploee("Tom", "ho", "•••••", "Lamberjack", "sdg@sfg.ew",
                 1654846351, 135468312, 37);
 
-               for (int i = 0; i < arrEmp.length; i++)
-                   if (arrEmp[i].Age > 40) arrEmp[i].EmploeeInfo();
+        for (int i=0; i < arrEmp.length; i++)
+            if (arrEmp[i].Age > 40) arrEmp[i].EmploeeInfo();
+
+
+
+
 
 
 

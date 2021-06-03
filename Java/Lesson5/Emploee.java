@@ -25,21 +25,22 @@ public class Emploee {
 
 
 
-            public void EmploeeInfo() {
+
+
+    public void EmploeeInfo() {
                 System.out.println("FirstName: " + FirstName + "\n" + "LastName: " + LastName + "\n" +
                         "MiddleName: " + MiddleName + "\n" + "Position: " + Positiion + "\n" +
                         "Email: " + Email + "\n" +  "PhoneNumber: " + PhoneNumber + "\n" + "Salary: " + Salary + "\n" +
                         "Age: " + Age );
 
             }
-            public void AgeInfo(){
-                if (Age > 40) {
-                    EmploeeInfo();
-                }
-            }
 
 
-        }
+    }
+
+
+
+
 
 
 
