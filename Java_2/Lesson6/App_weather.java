@@ -41,10 +41,7 @@ public class App_weather {
                 .build();
 
         Response response = client.newCall(request).execute();
-
-
-
-        System.out.println(Objects.requireNonNull(response.body()).string());
+         System.out.println(response.body().string());
 
     }
 }
