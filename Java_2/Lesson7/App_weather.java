@@ -1,15 +1,12 @@
-package Lesson6;
+package Lesson7;
 
-import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import okhttp3.HttpUrl;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 
-import java.io.File;
 import java.io.IOException;
-import java.util.Objects;
 
 public class App_weather {
     private static final String HOST = "api.weatherapi.com";

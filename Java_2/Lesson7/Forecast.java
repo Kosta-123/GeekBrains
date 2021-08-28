@@ -1,4 +1,4 @@
-package Lesson6;
+package Lesson7;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
