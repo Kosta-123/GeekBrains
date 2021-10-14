@@ -1,0 +1,335 @@
+{
+  "uid" : "4246e886a3db5a6e",
+  "name" : "loginTest()",
+  "fullName" : "com.geekbrains.lesson6.PageObjectTest.loginTest",
+  "historyId" : "72c7710b691df49d5787ca545c402cdb",
+  "time" : {
+    "start" : 1634223803074,
+    "stop" : 1634223833448,
+    "duration" : 30374
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Fill login field",
+      "time" : {
+        "start" : 1634223808948,
+        "stop" : 1634223808997,
+        "duration" : 49
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "login",
+        "value" : "Applanatest1"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Fill password field",
+      "time" : {
+        "start" : 1634223808998,
+        "stop" : 1634223809057,
+        "duration" : 59
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "password",
+        "value" : "Student2020!"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Click 'Submit' button",
+      "time" : {
+        "start" : 1634223809057,
+        "stop" : 1634223813685,
+        "duration" : 4628
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Hover on 'Projects' sub menu",
+      "time" : {
+        "start" : 1634223813686,
+        "stop" : 1634223813925,
+        "duration" : 239
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "menuName",
+        "value" : "Проекты"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Click on 'My projects' button",
+      "time" : {
+        "start" : 1634223813926,
+        "stop" : 1634223813990,
+        "duration" : 64
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Click on 'Create project' button",
+      "time" : {
+        "start" : 1634223817006,
+        "stop" : 1634223817358,
+        "duration" : 352
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Fill 'Project name' field",
+      "time" : {
+        "start" : 1634223822381,
+        "stop" : 1634223822440,
+        "duration" : 59
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "Name",
+        "value" : "Hello"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Select 'Priority'",
+      "time" : {
+        "start" : 1634223824166,
+        "stop" : 1634223824258,
+        "duration" : 92
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "option",
+        "value" : "Высокий"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Select 'Finance source'",
+      "time" : {
+        "start" : 1634223824259,
+        "stop" : 1634223824340,
+        "duration" : 81
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "option",
+        "value" : "Инвестиции"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Select 'Business unit'",
+      "time" : {
+        "start" : 1634223824340,
+        "stop" : 1634223824420,
+        "duration" : 80
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "option",
+        "value" : "Research & Development"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Select 'Curator'",
+      "time" : {
+        "start" : 1634223824420,
+        "stop" : 1634223824497,
+        "duration" : 77
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "option",
+        "value" : "Applanatest Applanatest Applanatest"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Select 'RP'",
+      "time" : {
+        "start" : 1634223824497,
+        "stop" : 1634223824584,
+        "duration" : 87
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "option",
+        "value" : "Applanatest Applanatest Applanatest"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Select 'Administrator'",
+      "time" : {
+        "start" : 1634223824585,
+        "stop" : 1634223824662,
+        "duration" : 77
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "option",
+        "value" : "Applanatest2 Applanatest2 Applanatest2"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Select 'Manager'",
+      "time" : {
+        "start" : 1634223824662,
+        "stop" : 1634223824745,
+        "duration" : 83
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "option",
+        "value" : "Applanatest Applanatest Applanatest"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Click on 'Save and quit' button",
+      "time" : {
+        "start" : 1634223824755,
+        "stop" : 1634223824786,
+        "duration" : 31
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "driver",
+        "value" : "ChromeDriver: chrome on WINDOWS (3ea6f64d08633aa19e61f58bae5788a5)"
+      }, {
+        "name" : "element",
+        "value" : "[[ChromeDriver: chrome on WINDOWS (3ea6f64d08633aa19e61f58bae5788a5)] -> xpath: //button[contains(text(),'Сохранить и закрыть')]]"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 15,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:com.geekbrains.lesson6.PageObjectTest]/[method:loginTest()]"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-TO4BLV02"
+  }, {
+    "name" : "thread",
+    "value" : "16064@LAPTOP-TO4BLV02.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.geekbrains.lesson6.PageObjectTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.geekbrains.lesson6.PageObjectTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTest"
+  }, {
+    "name" : "suite",
+    "value" : "com.geekbrains.lesson6.PageObjectTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4246e886a3db5a6e.json",
+  "parameterValues" : [ ]
+}

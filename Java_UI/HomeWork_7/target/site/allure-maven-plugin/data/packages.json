@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "com.geekbrains.lesson6.PageObjectTest",
+    "children" : [ {
+      "name" : "loginTest",
+      "uid" : "4246e886a3db5a6e",
+      "parentUid" : "e38e67d921d45eaf0932c2996f8a03c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634223803074,
+        "stop" : 1634223833448,
+        "duration" : 30374
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.geekbrains.lesson6.PageObjectTest"
+  } ],
+  "name" : "packages"
+}

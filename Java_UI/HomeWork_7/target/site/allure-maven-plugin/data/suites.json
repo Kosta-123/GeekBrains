@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "com.geekbrains.lesson6.PageObjectTest",
+    "children" : [ {
+      "name" : "loginTest()",
+      "uid" : "4246e886a3db5a6e",
+      "parentUid" : "85ee4f29e0a60c58282bdcce49baedf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634223803074,
+        "stop" : 1634223833448,
+        "duration" : 30374
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "85ee4f29e0a60c58282bdcce49baedf0"
+  } ],
+  "name" : "suites"
+}
