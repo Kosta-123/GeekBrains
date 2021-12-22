@@ -1,0 +1,47 @@
+{
+	"data": [{"cat_DishType_id": "",
+		"name": "\u0411\u043B\u0435\u0441\u0442\u044F\u0449\u0438\u0435 \u0431\u043B\u044E\u0434\u0430 \u0438\u0437 \u0440\u0435\u0437\u0438\u043D\u044B",
+		"pict": "https:\/\/i.pinimg.com\/236x\/80\/48\/7a\/80487a1f0439bcddeed1f45b428652b2--black-labrador-black-labs.jpg"
+	  
+	},{
+		"cat_DishType_id": "1791",
+		"name": "\u0412\u0442\u043e\u0440\u044b\u0435 \u0431\u043b\u044e\u0434\u0430",
+		"pict": "https:\/\/cdn.tveda.ru\/iblock\/4ec\/4ec48ba271f24b7cec19b7ae72f95f4e.jpg"
+	}, {
+		"cat_DishType_id": "1794",
+		"name": "\u0412\u044b\u043f\u0435\u0447\u043a\u0430",
+		"pict": "https:\/\/cdn.tveda.ru\/iblock\/8d0\/8d092aab3c9888d0154d0c59b6d0b58c.jpg"
+	}, {
+		"cat_DishType_id": "1793",
+		"name": "\u0414\u0435\u0441\u0435\u0440\u0442\u044b",
+		"pict": "https:\/\/cdn.tveda.ru\/iblock\/b65\/b65baa08c3ad531e71db1699a259ced0.jpg"
+	}, {
+		"cat_DishType_id": "1799",
+		"name": "\u0414\u0438\u0436\u0435\u0441\u0442\u0438\u0432",
+		"pict": "https:\/\/cdn.tveda.ru\/iblock\/bde\/bdee2300bd1dd221994a0b3fde836018.jpg"
+	}, {
+		"cat_DishType_id": "1795",
+		"name": "\u0417\u0430\u0433\u043e\u0442\u043e\u0432\u043a\u0438 \u0438 \u043a\u043e\u043d\u0441\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+		"pict": "https:\/\/cdn.tveda.ru\/iblock\/b65\/b65d195cdcb7501d9248bf7e006c7de3.jpg"
+	}, {
+		"cat_DishType_id": "1797",
+		"name": "\u0417\u0430\u043a\u0443\u0441\u043a\u0438",
+		"pict": "https:\/\/cdn.tveda.ru\/iblock\/326\/3260323ccac0daef73d0d1486abab44a.jpg"
+	}, {
+		"cat_DishType_id": "1792",
+		"name": "\u041d\u0430\u043f\u0438\u0442\u043a\u0438",
+		"pict": "https:\/\/cdn.tveda.ru\/iblock\/37c\/37cc1bd0dcd9294769406e39693587a3.jpg"
+	}, {
+		"cat_DishType_id": "1789",
+		"name": "\u0421\u0430\u043b\u0430\u0442\u044b",
+		"pict": "https:\/\/cdn.tveda.ru\/iblock\/dc6\/dc6b0c4ba3f03493bd6aab7fa0d27712.jpg"
+	}, {
+		"cat_DishType_id": "1796",
+		"name": "\u0421\u043e\u0443\u0441\u044b \u0438 \u043c\u0430\u0440\u0438\u043d\u0430\u0434\u044b",
+		"pict": "https:\/\/cdn.tveda.ru\/iblock\/1c6\/1c6ae8894e33cbc312dfe0eb825f7f73.jpg"
+	}, {
+		"cat_DishType_id": "1790",
+		"name": "\u0421\u0443\u043f\u044b",
+		"pict": "https:\/\/cdn.tveda.ru\/iblock\/b0d\/b0d241f19af5500574f0d6c6a5de17a3.jpg"
+	}]
+}
